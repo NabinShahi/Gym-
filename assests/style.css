@@ -70,12 +70,3 @@ body{
     color: orangered;
 }
 
-.card{
-    box-shadow: 4px black;
-    transition: 0.5s;
-    width: 20%;
-}
-
-.container{
-    padding: 10px;
-}
